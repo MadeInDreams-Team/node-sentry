@@ -1,0 +1,29 @@
+{
+  "name": "@madeindreams/node-sentry",
+  "version": "1.0.0",
+  "description": "A node sentry project for the madeindreams node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadeInDreams-Team/node-sentry.git"
+  },
+  "keywords": [
+    "email",
+    "NodeJs"
+  ],
+  "author": "Ian Decentrlize",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadeInDreams-Team/node-sentry/issues"
+  },
+  "homepage": "https://github.com/MadeInDreams-Team/node-sentry#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "ethers": "^5.1.3",
+    "nodemailer": "^6.5.0"
+  }
+}
